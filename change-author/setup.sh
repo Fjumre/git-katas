@@ -6,8 +6,8 @@ make-bare-remote-repo
 clone-remote-to-exercise
 
 # Set local git user name and email to distinguish commits.
-git config --local user.name "Fjumre"
-git config --local user.email "mikkelgold@protonmail.com"
+git config --local user.name "MGold"
+
 
 echo "A" > fileA.txt
 

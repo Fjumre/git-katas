@@ -1,4 +1,4 @@
-# Git Kata: Basic Staging
+git# Git Kata: Basic Staging
 
 This kata will examine the staging area of git.
 
